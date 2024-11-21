@@ -17,7 +17,6 @@ public class Calculadora {
 		operandos[0] = teclado.nextInt();
 		System.out.print("Operando 2: ");
 		operandos[1] = teclado.nextInt();
-		
 
 		System.out.print("Operaciones [+, -, *, /, %]: ");
 		operacion = teclado.next();
